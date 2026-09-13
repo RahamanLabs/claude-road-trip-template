@@ -7,7 +7,7 @@ I say Claude throughout because that's what I actually used. Nothing here is
 specific to it — the files are plain markdown and the prompts are plain English,
 so ChatGPT, Gemini or anything else works the same way. Substitute the name.
 
-Written up here: **[How I Planned a Hyderabad to Goa Road Trip With AI](ADD_YOUR_MEDIUM_URL_HERE)**
+Written up here: **[How I Planned a Hyderabad to Goa Road Trip With AI](https://medium.com/@mustaf.here/hyderabad-to-goa-by-road-part-5-of-5-how-i-planned-the-trip-with-claude-3790664edf16)**
 
 ## The files
 
